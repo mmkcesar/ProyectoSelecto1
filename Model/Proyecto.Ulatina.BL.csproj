@@ -69,10 +69,6 @@
     <Folder Include="Dominio\Validaciones\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\RepositoriosProfe\Ulatina.Electiva.Classwork.Training\Ulatina.Topicos.GenericRepository\Ulatina.Topicos.GenericRepository.csproj">
-      <Project>{15BAC7A6-78E3-4A6A-BC8B-2C0DC3432FF3}</Project>
-      <Name>Ulatina.Topicos.GenericRepository</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Proyectos.Ulatina.Model\Proyectos.Ulatina.Model.csproj">
       <Project>{e58be06e-6cf0-4ec7-adfd-a8b47bbf2e26}</Project>
       <Name>Proyectos.Ulatina.Model</Name>
